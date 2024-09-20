@@ -1,5 +1,5 @@
 
-public class program5{
+public class Program5{
     public static void main(String[] args){
         int royaleMiles = 286;
         int royaleGallons = 9;
